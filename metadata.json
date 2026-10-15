@@ -1,0 +1,6 @@
+{
+  "name": "Futariya Yogurt Shop POS",
+  "description": "Aplikasi Point of Sale (POS) resmi Futariya Greek Yogurt Factory - Healthy Life with Healthy Food. Transaksi kasir cepat, struk thermal & WhatsApp Click-to-Chat, manajemen katalog produk, dan laporan penjualan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
